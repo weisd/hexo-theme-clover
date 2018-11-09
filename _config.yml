@@ -2,7 +2,7 @@
 nav:
   title: "Weisd' Blog"
 
-favicon: "favicon.ico"
+favicon: "/favicon.ico"
 
 # Custom background
 background:
