@@ -2,7 +2,7 @@
 nav:
   title: "Weisd' Blog"
 
-favicon: ""
+favicon: "favicon.ico"
 
 # Custom background
 background:
@@ -32,6 +32,8 @@ menu:
   #   path: /tags/Stuffs
   #   card: article-card
   Home: /
+  Tags: /tags
+  Categories: /categories
   Archive: /archives
   About: /about
 
